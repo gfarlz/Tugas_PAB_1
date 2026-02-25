@@ -1,5 +1,7 @@
 # PAB_Pertemuan-4_part-5
+*NAMA: GHIFARI AL AZHAR*
 
+*NIM: 2409116059*
 # Mini E-Commerce Shopping Cart (Flutter + Provider)
 
 ## Deskripsi Project
